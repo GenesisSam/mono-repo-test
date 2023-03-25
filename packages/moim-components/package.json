@@ -1,0 +1,35 @@
+{
+	"name": "moim-components",
+	"version": "1.0.0",
+	"description": "> TODO: description",
+	"author": "genesissam <samuel940401@gmail.com>",
+	"homepage": "https://github.com/GenesisSam/mono-repo-test#readme",
+	"license": "ISC",
+	"main": "lib/index.tsx",
+	"directories": {
+		"lib": "lib"
+	},
+	"files": [
+		"lib"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GenesisSam/mono-repo-test.git"
+	},
+	"scripts": {},
+	"bugs": {
+		"url": "https://github.com/GenesisSam/mono-repo-test/issues"
+	},
+	"devDependencies": {
+		"@types/node": "^16.18.20",
+		"@types/react": "^18.0.29",
+		"@types/react-dom": "^18.0.11",
+		"@types/styled-components": "^5.1.26",
+		"typescript": "^5.0.2"
+	},
+	"dependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"styled-components": "^5.3.9"
+	}
+}
